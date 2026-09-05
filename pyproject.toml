@@ -1,0 +1,9 @@
+[project]
+name = "insightos"
+version = "0.1.0"
+description = "Autonomous AI Business Intelligence Analyst"
+requires-python = ">=3.11,<3.13"
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
